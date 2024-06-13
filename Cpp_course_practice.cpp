@@ -8,8 +8,7 @@ using namespace std;
 int main()
 {
 	std::cout << "Hello CMake!!!!!!!!!." << std::endl;
-
-	ddkd
+lff
 	
 	return 0;
 }
