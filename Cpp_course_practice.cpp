@@ -9,6 +9,6 @@ int main()
 {
 	std::cout << "Hello CMake!!!!!!!!!." << std::endl;
 lfffdfd
-	
+	gg
 	return 0;
 }
